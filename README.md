@@ -1,0 +1,1 @@
+A detailed explanation of data collection, cleaning, and visualization is written here - https://medium.com/@nithya-thimmaraju/creating-an-hr-analytics-dashboard-from-scratch-in-tableau-a-case-study-project-675c3a0000fd
